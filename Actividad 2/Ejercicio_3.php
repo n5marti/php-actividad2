@@ -25,13 +25,13 @@ print_r(frecuenciaCaracteres($texto));
 /* RESULTADO
     [N] => 1
     [o] => 1
-    [e] => 4
+    [e] => 3
     [ ] => 2
     [M] => 2
     [a] => 2
     [r] => 2
     [t] => 2
-    [i] => 3
+    [i] => 2
     [n] => 2
     [z] => 2
 */
